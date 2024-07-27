@@ -1,0 +1,6 @@
+Food: 
+Name: Banana
+Price: $0.49
+Description: Fresh and ripe banana
+Expiration Date: 15/06/2023
+

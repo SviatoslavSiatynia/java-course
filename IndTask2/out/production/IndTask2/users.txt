@@ -1,0 +1,24 @@
+User: 
+Name: Ivan
+Email: ivanovych@gmail.com
+Password: password123
+
+User: 
+Name: Marina
+Email: igorivna@gmail.com
+Password: qwerty123
+
+User: 
+Name: Oleksandr
+Email: oleksandr123@gmail.com
+Password: mypassword
+
+User: 
+Name: Olha
+Email: olha.serg@gmail.com
+Password: secret123
+
+Admin: 
+Name: Volodymyr
+Email: volodymyr.oleksiiovych@gmail.com
+Password: 12345678a

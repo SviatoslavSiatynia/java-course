@@ -1,0 +1,15 @@
+Banana - $0.49
+Total: $4.49
+Address: Kharkiv
+Payment method: online payment
+
+Whole Milk - $2.99
+Total: $6.99
+Address: Dnepr
+Payment method: payment on delivery
+
+Apple - $0.69
+Total: $4.6899999999999995
+Address: Poltava
+Payment method: online payment
+
